@@ -1,0 +1,20 @@
+17	Abha
+20	Al Qunfudhah
+15	Al-Kharj
+9	Buraidah
+7	Dammam
+13	Hafar Al-Batin
+12	Ha'il
+5	Hofuf
+2	Jeddah
+14	Jubail
+8	Khamis Mushait
+10	Khobar
+3	Mecca
+4	Medina
+18	Najran
+16	Qatif
+1	Riyadh
+11	Tabuk
+6	Ta'if
+19	Yanbu
