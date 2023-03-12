@@ -1,0 +1,6 @@
+Q's"
+    1- DLL & SLL
+
+    2- Recurgin 
+
+    3- Stacks || Queue

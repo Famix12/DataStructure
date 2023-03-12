@@ -5,6 +5,8 @@ public class ArrayQueue {
     private int first, last, size;
     private Object[] storage;
 
+    
+
     public ArrayQueue() {
         this(100);
     }
@@ -17,6 +19,10 @@ public class ArrayQueue {
 
     public boolean isFull() {
         return first == 0 && last == size - 1 || first == last + 1;
+
+
+
+        
     }
 
     public boolean isEmpty() {
